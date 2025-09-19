@@ -112,14 +112,14 @@ Alle weiteren Ports sind nur innerhalb des VPCs offen.
 
 | Feld                                  | Wert                                                 |
 | ------------------------------------- | ---------------------------------------------------- |
-| Active Directory Third-Level-Domäne-2 |  aws.platanos.dr                                    |
+| Active Directory Third-Level-Domäne-2 | aws.platanos |
 | Trust-Typ                             | Tree-Root Trust                                      |
 | AWS Managed Admin User                | admin                                                |
-| AWS Managed Admin Passwort            |                                                      |
+| AWS Managed Admin Passwort            |  Platanos1!|
 | IP-Adresse                            |                                                      |
 | DNS-Server 1                          |                                                      |
 | DNS-Server 2                          |                                                      |
-| Trust Passwort                        |                                                      |
+| Trust Passwort                        | Platanos1!|
 | Subnetz 1                             | z.b. M159-subnet-private1-us-east-1a (10.0.128.0/20) |
 | Subnetz 2                             | z.b. M159-subnet-private2-us-east-1b (10.0.144.0/20) |
 
