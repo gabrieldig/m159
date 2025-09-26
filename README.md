@@ -97,16 +97,16 @@ Alle weiteren Ports sind nur innerhalb des VPCs offen.
 | Active Directory Third-Level-Domäne-1 | ec2.platanos.dr     |
 | Öffentlicher UPN-Suffix (später)      | z.b. m159tbz.v6.rocks |
 | Domänenadministrator                  | Administrator         |
-| Kennwort Domänenadministrator         |                       |
+| Kennwort Domänenadministrator         |kAS17I.LE&N6Sa5ye.jE!6CRuL5lAP?-|
 
 ### Azure AD (Entra ID)
 
-| Feld                         | Wert |
-| ---------------------------- | ---- |
-| Entra AD Tenant Name         |      |
-| Azure Administrator (UPN)    |      |
-| Kennwort Azure Administrator |      |
-| Entra Connect Server (Name)  |      |
+| Feld                         | Wert          |
+| ---------------------------- | ------------- |
+| Entra AD Tenant Name         |               |
+| Azure Administrator (UPN)    | Administrator |
+| Kennwort Azure Administrator | Platanos1!    |
+| Entra Connect Server (Name)  |               |
 
 ### AWS Managed AD
 
