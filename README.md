@@ -127,10 +127,10 @@ Alle weiteren Ports sind nur innerhalb des VPCs offen.
 
 ## 7. EC2-Instanzen
 
-| Komponente                                       | FQDN                     | Elastic IP         | Private IP (CIDR) | Subnetz                         | DNS-Server 1 | DNS-Server 2 | Lokaler Admin | Kennwort |
-| ------------------------------------------------ | ------------------------ | ------------------ | ----------------- | ------------------------------- | ------------ | ------------ | ------------- | -------- |
-| IaaS/OnPrem AD DC                                | z.b. dc.ec2.tbz.m159     |                    | z.b.  10.0.129.10 | M159-subnet-private1-us-east-1a |              |              | Administrator |          |
-| Windows Server (Client)                          | z.b. client.ec2.tbz.m159 | z.b. 44.198.134.36 | z.b.  10.0.129.20 | M159-subnet-public1-us-east-1a  |              |              | Administrator |          |
+| Komponente| FQDN| Elastic IP| Private IP (CIDR) | Subnetz| DNS-Server 1 | DNS-Server 2 | Lokaler Admin | Kennwort |
+| ----------------------------- | ------------------------ | ------------------ | ----------------- | ------------------------------- | ------------ | ------------ | ------------- | -------- |
+| IaaS/OnPrem AD DC| z.b. dc.ec2.tbz.m159|| z.b.  10.0.129.10 | M159-subnet-private1-us-east-1a |     |    | Administrator |          |
+| Windows Server (Client)| z.b. client.ec2.tbz.m159 | z.b. 44.198.134.36 | z.b.  10.0.129.20 | M159-subnet-public1-us-east-1a  |    |   | Administrator |          |
 | Managed AWS EC2 DC                               |                          |                    |                   |                                 |              |              |               |          |
 | Windows Server Admin Center (Managed AWS EC2 DC) |                          |                    |                   |                                 |              |              |               |          |
 

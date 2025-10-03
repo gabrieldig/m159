@@ -62,3 +62,18 @@ pwd: bQeRTA8Yjxo1EQ_5KrhxKzVZ88xgub
 ![alt text](image-12.png)
 
 ![alt text](image-13.png)
+
+# NEW AWS LAb
+
+DC
+
+Adminstrator
+.rx;E*eWFYkSuW0dPVNIU21@?J9Th%V7
+
+Domain:
+Platanos1!
+
+## GPOS
+
+### Passwort Richtlinie
+![alt text](image-14.png)
