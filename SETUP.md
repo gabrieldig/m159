@@ -73,7 +73,42 @@ Adminstrator
 Domain:
 Platanos1!
 
+
+CLIENT
+
+ADministrator
+I)b0%1.=j&!QD$Nw-&*24cibCXdzz51j
 ## GPOS
+Group Policy Objects
+### DIT
+![DIT](image-20.png)
 
 ### Passwort Richtlinie
 ![alt text](image-14.png)
+
+### CRM
+![alt text](image-15.png)
+
+### Drucker 
+
+![alt text](image-17.png)
+
+### 7Zip
+
+![alt text](image-18.png)
+![alt text](image-19.png)
+
+admini
+
+admini@gabrieldigiuseppe07bluewin.onmicrosoft.com
+
+.rx;E*eWFYkSuW0dPVNIU21@?J9Th%V74
+
+SCP
+
+![alt text](image-21.png)
+
+Hybrid Join on
+![alt text](image-22.png)
+
+![alt text](image-23.png)
